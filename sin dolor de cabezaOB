@@ -1,0 +1,48 @@
+*   [33mcommit 0042566dd42edbeb1bf08fa7f1e2846cd462513a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 11a3148 f965afa
+[31m|[m [32m|[m Author: Ernesto Corona <ernesto_rodriguezc2002@outlook.com>
+[31m|[m [32m|[m Date:   Sun Aug 14 17:52:41 2022 -0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo'
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f965afafda3822fc9173292558091e81929f05c6[m[33m ([m[1;32mtitulo[m[33m)[m
+[31m|[m [32m|[m Author: Ernesto Corona <ernesto_rodriguezc2002@outlook.com>
+[31m|[m [32m|[m Date:   Sun Aug 14 17:38:07 2022 -0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Se extendio el titulo para especificar la lista
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 1829694b971f57d438f8d68d28eec8411a9b6e68[m
+[31m|[m [32m|[m Author: Ernesto Corona <ernesto_rodriguezc2002@outlook.com>
+[31m|[m [32m|[m Date:   Sun Aug 14 17:37:27 2022 -0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Se cambio el titulo de la pagina
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 11a3148565e37bc9b70ed1924e83d650a640b61a[m
+[32m|[m[32m/[m  Author: Ernesto Corona <ernesto_rodriguezc2002@outlook.com>
+[32m|[m   Date:   Sun Aug 14 17:52:05 2022 -0700
+[32m|[m   
+[32m|[m       Como Denisse no hizo bien su chamba, cambie el nombre de Docker
+[32m|[m 
+* [33mcommit 052deb266a508dd598239ed44c320ba7d1a7d381[m[33m ([m[1;31mservidorLocal/master[m[33m, [m[1;31morigin/master[m[33m)[m
+[32m|[m Author: Ernesto Corona <ernesto_rodriguezc2002@outlook.com>
+[32m|[m Date:   Sat Aug 13 10:17:13 2022 -0700
+[32m|[m 
+[32m|[m     Lenguaje inclusivo
+[32m|[m 
+* [33mcommit 9ead00d94dc983070e3f34ad857ada2b9e197341[m
+[32m|[m Author: Ernesto Corona <ernesto_rodriguezc2002@outlook.com>
+[32m|[m Date:   Sat Aug 13 09:05:34 2022 -0700
+[32m|[m 
+[32m|[m     Agregando excepciones
+[32m|[m 
+* [33mcommit d9d64447f0ea13d30c906a55141e2c6d9f5d1fda[m
+[32m|[m Author: Ernesto <ernesto_rodriguezc2002@outlook.com>
+[32m|[m Date:   Sat Aug 13 08:54:31 2022 -0700
+[32m|[m 
+[32m|[m     Se anhadio una linea nueva
+[32m|[m 
+* [33mcommit 2e385f4a2349b6db54f0c838c2a38eb3b8a127f9[m
+  Author: Ernesto <ernesto_rodriguezc2002@outlook.com>
+  Date:   Sat Aug 13 08:49:19 2022 -0700
+  
+      Creando archivo index.html
